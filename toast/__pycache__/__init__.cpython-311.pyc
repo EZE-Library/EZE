@@ -1,0 +1,11 @@
+__all__ = ("toast",)
+
+from kivy.utils import platform
+
+if platform == "android":
+    try:
+        from .androidtoast import toast
+    except ModuleNotFoundError:
+        from .ezetoast import toast
+else:
+    from .ezetoast import toast
