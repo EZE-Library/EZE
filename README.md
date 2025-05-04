@@ -4,7 +4,7 @@ EZE is a powerful Python library built on top of KIVY and KIVYMD, designed to pr
 intuitive interface for building user-friendly applications. 
 By combining the strengths of both KIVY and  KIVYMD, EZE offers a seamless development experience.
 
-Key Features:
+# Key Features:
 1. Cross-platform compatibility: EZE allows users to run applications on multiple platforms, including 
 desktop, mobile, and tablet devices.
 
@@ -29,7 +29,7 @@ developers of all levels.
 reliable foundation.
 
 
-Some possible additional features could include:
+# Some possible additional features could include:
 
 1. Pre-built widgets and components: A library of reusable UI components and widgets that can be easily 
 integrated into applications.
@@ -41,7 +41,7 @@ events, making it easy to create interactive and responsive applications.
 and APIs, making it easy to add features like authentication, data storage, and more.
 
 
-Use cases for EZE could include:
+# Use cases for EZE could include:
 1. Mobile app development: EZE can be used to build mobile apps for Android and iOS devices, 
 leveraging KIVY’S cross-platform capabilities.
 
@@ -57,7 +57,7 @@ programming concepts, human-computer interaction, and mobile app development.
 5. Enterprise applications: EZE can be used to build custom enterprise
 Applications, such as data visualization tools, workflow management systems, and more.
 
-Examples:
+# Examples:
 1. Building a mobile app for tracking personal expenses
 2. Creating a desktop application for managing tasks and projects
 3. Developing a prototype for a smart home automation system
@@ -65,35 +65,36 @@ Examples:
 5. Creating a data visualization tool for business intelligence
 
 
-Note: EZE is built on KIVY and so, you must install KIVY first by using the following commands on your 
+# Note: 
+EZE is built on KIVY and so, you must install KIVY first by using the following commands on your 
 code editor/IDE; ‘pip install kivy’, once done with installing KIVY, you are free to install EZE
 
 
-Getting Started:
+# Getting Started:
 1. Install EZE using pip: `pip install eze`
 2. Import EZE in your Python script: `from eze.app import EZEApp`
 3. Start building your application with EZE's intuitive API
 
 
-Documentation:
+# Documentation:
 1. API documentation: Detailed documentation of EZE's API and features. {Check Github Repostory}
 2. Tutorials: Step-by-step guides to help you get started with EZE. {YouTube: @Martin Onyisi}
 
-Contributing:
+# Contributing:
 We welcome contributions to EZE! If you're interested in contributing, please:
 1. Fork the repository
 2. Make your changes
 3. Submit a pull request
 
 
-Libraries and Assets:
+# Libraries and Assets:
 1. KIVY: MIT License 
 2. KIVYMD: MIT License
 3. ROBOTO FONT: APACHE LICENSE
 4. MATERIAL DESIGN ICONS: SIL OPEN FONT LICENSE 
 
 
-Acknowledgments:
+# Acknowledgments:
 I would like to express my gratitude to the KivyMD team for creating such an amazing library. 
 Their work on KivyMD not only inspired me but also laid the foundation for my own project, EZE. 
 By building upon KivyMD's UI/UX capabilities, I was able to create a library that advances and enhances 
@@ -110,6 +111,7 @@ one way or the other contributed to this great project. Thanks
 
 # About the Developer
 EZE is developed by Martin Onyisi [Martony] 
+
 Contact:
 1. LinkedIn: [ Martin Onyisi ]
 2. Facebook: [ Tech with Martony ]
